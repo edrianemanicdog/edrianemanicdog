@@ -2,7 +2,12 @@
 ![Status](https://img.shields.io/badge/status-cozy-ffc0cb)
 ![Vibes](https://img.shields.io/badge/vibes-lofi-9370db)
 
-<img src="https://streak-stats.vercel.app?user=edrianemanicdog&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=ffb6c1&fire=ff69b4&currStreakNum=ff9aa2&sideNums=ff9aa2&currStreakLabel=ffb6c1&sideLabels=ffb6c1&dates=ffdde1&background=ffffff00&stroke=ffb6c1" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=edrianemanicdog&theme=rose_pine&border_radius=15" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edrianemanicdog&show_icons=true&theme=rose_pine&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edrianemanicdog&layout=compact&theme=rose_pine&hide_border=true" height="150" />
+</p>
+
 ## Hi there 👋
 
 <!--
