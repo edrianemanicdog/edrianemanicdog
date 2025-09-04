@@ -1,3 +1,6 @@
+![Love](https://img.shields.io/badge/love-coding-ff69b4?style=flat&logo=heart)
+![Status](https://img.shields.io/badge/status-cozy-ffc0cb)
+![Vibes](https://img.shields.io/badge/vibes-lofi-9370db)
 ## Hi there 👋
 
 <!--
