@@ -2,7 +2,7 @@
 ![Status](https://img.shields.io/badge/status-cozy-ffc0cb)
 ![Vibes](https://img.shields.io/badge/vibes-lofi-9370db)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine&border_radius=15)
+![GitHub Streak](https://streak-stats.demolab.com?user=edrianemanicdog&theme=rose_pine&border_radius=15)
 
 ## Hi there 👋
 
