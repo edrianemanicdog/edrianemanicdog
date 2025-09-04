@@ -3,7 +3,6 @@
 ![Vibes](https://img.shields.io/badge/vibes-lofi-9370db)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edrianemanicdog&theme=rose_pine&border_radius=15" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=edrianemanicdog&show_icons=true&theme=rose_pine&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edrianemanicdog&layout=compact&theme=rose_pine&hide_border=true" height="150" />
 </p>
