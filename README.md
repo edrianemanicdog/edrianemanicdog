@@ -6,7 +6,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=edrianemanicdog&show_icons=true&theme=rose_pine&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edrianemanicdog&layout=compact&theme=rose_pine&hide_border=true" height="150" />
 </p>
+
 [![Instagram](https://img.shields.io/badge/Instagram-@edriwoo-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/edriwoo)
+
 ## Hi there 👋
 
 <!--
