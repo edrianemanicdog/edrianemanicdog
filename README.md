@@ -65,15 +65,11 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edrianemanicdog&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&bg_color=0,000000,1a0033)
+  <img src="https://github-readme-stats.vercel.app/api?username=edrianemanicdog&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edrianemanicdog&theme=tokyonight&hide_border=true&layout=compact&title_color=9d4edd&text_color=ffffff&bg_color=0,000000,1a0033)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edrianemanicdog&layout=compact&theme=tokyonight" alt="Top Languages" />
   
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=edrianemanicdog&theme=tokyonight&hide_border=true&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd)
+  <img src="https://github-readme-streak-stats.demolab.com/?user=edrianemanicdog&theme=tokyonight" alt="GitHub Streak" />
   
 </div>
 
