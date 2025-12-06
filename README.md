@@ -65,71 +65,15 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edrianemanicdog&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&bg_color=0,000000,1a0033" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edrianemanicdog&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&bg_color=0,000000,1a0033)
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edrianemanicdog&theme=tokyonight&hide_border=true&layout=compact&title_color=9d4edd&text_color=ffffff&bg_color=0,000000,1a0033" alt="Top Languages" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edrianemanicdog&theme=tokyonight&hide_border=true&layout=compact&title_color=9d4edd&text_color=ffffff&bg_color=0,000000,1a0033)
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.demolab.com/?user=edrianemanicdog&theme=tokyonight&hide_border=true&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd" alt="GitHub Streak" />
-  
-</div>
-
----
-
-## 🎮 Featured Projects
-
-<div align="center">
-  
-  <!-- Pixel Art Project Icons -->
-  <div style="font-size: 24px; margin: 20px 0;">
-  🟣 🟠 🔵 🟡
-  </div>
-  
-</div>
-
-### 🏆 Project 1
-
-<div align="center">
-  
-  ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square&labelColor=0d1117)
-  ![Tech](https://img.shields.io/badge/Tech-React-blue?style=flat-square&labelColor=0d1117)
-  
-  **Description of your amazing project...**
-  
-  [![View Project](https://img.shields.io/badge/View-Project-9d4edd?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/edrianemanicdog/project1)
-  
-</div>
-
----
-
-### 🏆 Project 2
-
-<div align="center">
-  
-  ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square&labelColor=0d1117)
-  ![Tech](https://img.shields.io/badge/Tech-Laravel-red?style=flat-square&labelColor=0d1117)
-  
-  **Description of another cool project...**
-  
-  [![View Project](https://img.shields.io/badge/View-Project-9d4edd?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/edrianemanicdog/project2)
-  
-</div>
-
----
-
-### 🏆 Project 3
-
-<div align="center">
-  
-  ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square&labelColor=0d1117)
-  ![Tech](https://img.shields.io/badge/Tech-Node.js-green?style=flat-square&labelColor=0d1117)
-  
-  **Description of your third project...**
-  
-  [![View Project](https://img.shields.io/badge/View-Project-9d4edd?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/edrianemanicdog/project3)
+  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=edrianemanicdog&theme=tokyonight&hide_border=true&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd)
   
 </div>
 
@@ -200,7 +144,7 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer" alt="Footer" />
   
-  <img src="https://profile-counter.glitch.me/edrianemanicdog/count.svg" alt="Visitor Count" />
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=edrianemanicdog.edrianemanicdog&left_color=9d4edd&right_color=6a1b9a)
   
   **⭐ Star this repo if you like it!**
   
