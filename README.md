@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixel&size=35&duration=4000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Edriane+Manicdog;Pixel+Art+Enthusiast+%26+Developer;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixel&size=35&duration=4000&color=87CEEB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Edriane+Manicdog;Pixel+Art+Enthusiast+%26+Developer;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Edriane%20Manicdog&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,87CEEB,1E90FF&height=180&section=header&text=Edriane%20Manicdog&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
 </div>
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/edrianemanicdog?style=flat-square&logo=github&color=9d4edd&labelColor=0d1117)
-  ![GitHub stars](https://img.shields.io/github/stars/edrianemanicdog?style=flat-square&logo=github&color=9d4edd&labelColor=0d1117)
-  ![Profile Views](https://komarev.com/ghpvc/?username=edrianemanicdog&style=flat-square&color=9d4edd&labelColor=0d1117)
+  ![GitHub followers](https://img.shields.io/github/followers/edrianemanicdog?style=flat-square&logo=github&color=87CEEB&labelColor=0d1117)
+  ![GitHub stars](https://img.shields.io/github/stars/edrianemanicdog?style=flat-square&logo=github&color=87CEEB&labelColor=0d1117)
+  ![Profile Views](https://komarev.com/ghpvc/?username=edrianemanicdog&style=flat-square&color=87CEEB&labelColor=0d1117)
   
 </div>
 
@@ -41,35 +41,21 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
   
   ### Languages & Frameworks
   
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0d1117)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=87CEEB)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=87CEEB)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=87CEEB)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=87CEEB)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=87CEEB)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=87CEEB)
   
   ### Tools & Technologies
   
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=0d1117)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0d1117)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117)
-  
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=edrianemanicdog&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edrianemanicdog&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.demolab.com/?user=edrianemanicdog&theme=tokyonight" alt="GitHub Streak" />
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=87CEEB)
+  ![React](https://img.shields.io/badge/React-00BFFF?style=flat-square&logo=react&logoColor=61DAFB&labelColor=87CEEB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=87CEEB)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=87CEEB)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=87CEEB)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=87CEEB)
   
 </div>
 
@@ -79,9 +65,9 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Pixel%20Art-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Design-4ECDC4?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Creative-FFD93D?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Pixel%20Art-87CEEB?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Design-00BFFF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Creative-1E90FF?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0d1117" />
   
   <br/><br/>
   
@@ -94,7 +80,7 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
   
   <!-- Pixel Art Icons -->
   <div style="font-size: 32px; margin: 20px 0;">
-  💻 🎮 🎨 🚀
+  💻 🎮 🎨 ☁️
   </div>
   
 </div>
@@ -107,19 +93,19 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
   
   <!-- Pixel Art Social Icons -->
   <div style="font-size: 28px; margin: 20px 0;">
-  ⬛ 🔵 📧
+  🔵 💙 ☁️
   </div>
   
   <br/>
   
   <a href="https://github.com/edrianemanicdog">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=181717&labelColor=0d1117" />
   </a>
   <a href="https://linkedin.com/in/edrianemanicdog">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="mailto:edrianemanicdog@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
   
 </div>
@@ -138,9 +124,9 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,87CEEB,1E90FF&height=65&section=footer" alt="Footer" />
   
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=edrianemanicdog.edrianemanicdog&left_color=9d4edd&right_color=6a1b9a)
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=edrianemanicdog.edrianemanicdog&left_color=87CEEB&right_color=1E90FF)
   
   **⭐ Star this repo if you like it!**
   
