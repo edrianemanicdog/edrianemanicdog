@@ -30,7 +30,7 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
 - 🌱 Currently learning: **New technologies and frameworks**
 - 👯 Looking to collaborate on: **Open source projects**
 - 💬 Ask me about: **Web development, pixel art, and coding**
-- 📫 How to reach me: **edrianemanicdog@github.com**
+- 📫 How to reach me: **edrianemanicdog6@gmail.com**
 - ⚡ Fun fact: **I love combining retro aesthetics with modern tech!**
 
 ---
@@ -51,7 +51,6 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
   ### Tools & Technologies
   
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=87CEEB)
-  ![React](https://img.shields.io/badge/React-00BFFF?style=flat-square&logo=react&logoColor=61DAFB&labelColor=87CEEB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=87CEEB)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=87CEEB)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=87CEEB)
