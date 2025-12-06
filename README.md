@@ -10,7 +10,6 @@
   
   ![GitHub followers](https://img.shields.io/github/followers/edrianemanicdog?style=flat-square&logo=github&color=87CEEB&labelColor=0d1117)
   ![GitHub stars](https://img.shields.io/github/stars/edrianemanicdog?style=flat-square&logo=github&color=87CEEB&labelColor=0d1117)
-  ![Profile Views](https://komarev.com/ghpvc/?username=edrianemanicdog&style=flat-square&color=87CEEB&labelColor=0d1117)
   
 </div>
 
@@ -125,7 +124,6 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,87CEEB,1E90FF&height=65&section=footer" alt="Footer" />
   
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=edrianemanicdog.edrianemanicdog&left_color=87CEEB&right_color=1E90FF)
   
   **⭐ Star this repo if you like it!**
   
