@@ -1,27 +1,292 @@
-![Love](https://img.shields.io/badge/love-coding-ff69b4?style=flat&logo=heart)
-![Status](https://img.shields.io/badge/status-cozy-ffc0cb)
-![Vibes](https://img.shields.io/badge/vibes-lofi-9370db)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixel&size=35&duration=4000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Edriane+Manicdog;Pixel+Art+Enthusiast+%26+Developer;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edrianemanicdog&show_icons=true&theme=rose_pine&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edrianemanicdog&layout=compact&theme=rose_pine&hide_border=true" height="150" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Edriane%20Manicdog&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-@edriwoo-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/edriwoo)
+<div align="center">
+  
+  ![GitHub followers](https://img.shields.io/github/followers/edrianemanicdog?style=flat-square&logo=github&color=9d4edd&labelColor=0d1117)
+  ![GitHub stars](https://img.shields.io/github/stars/edrianemanicdog?style=flat-square&logo=github&color=9d4edd&labelColor=0d1117)
+  ![Profile Views](https://komarev.com/ghpvc/?username=edrianemanicdog&style=flat-square&color=9d4edd&labelColor=0d1117)
+  
+</div>
 
-## Hi there 👋
+---
 
-<!--
-**edrianemanicdog/edrianemanicdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 About Me
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a dedicated developer with a passion for creating beautiful, functional applications. I love the retro aesthetic of pixel art and strive to bring that charm into modern development while maintaining professional standards.
+
+- 🔭 Currently working on: **Building awesome projects**
+- 🌱 Currently learning: **New technologies and frameworks**
+- 👯 Looking to collaborate on: **Open source projects**
+- 💬 Ask me about: **Web development, pixel art, and coding**
+- 📫 How to reach me: **edrianemanicdog@github.com**
+- ⚡ Fun fact: **I love combining retro aesthetics with modern tech!**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ### Languages & Frameworks
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0d1117)
+  
+  ### Tools & Technologies
+  
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=0d1117)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0d1117)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117)
+  
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edrianemanicdog&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&bg_color=0,000000,1a0033" alt="GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edrianemanicdog&theme=tokyonight&hide_border=true&layout=compact&title_color=9d4edd&text_color=ffffff&bg_color=0,000000,1a0033" alt="Top Languages" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.demolab.com/?user=edrianemanicdog&theme=tokyonight&hide_border=true&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd" alt="GitHub Streak" />
+  
+</div>
+
+---
+
+## 🎮 Featured Projects
+
+<div align="center">
+  
+  <!-- Pixel Art Project Icons -->
+  <svg width="500" height="80" xmlns="http://www.w3.org/2000/svg">
+    <!-- Project 1 Icon -->
+    <rect x="50" y="10" width="60" height="60" fill="#9d4edd" stroke="#6a1b9a" stroke-width="2"/>
+    <rect x="60" y="20" width="15" height="15" fill="#ffffff"/>
+    <rect x="80" y="20" width="15" height="15" fill="#ffffff"/>
+    <rect x="100" y="20" width="10" height="15" fill="#ffffff"/>
+    <rect x="60" y="40" width="40" height="5" fill="#ffffff"/>
+    <rect x="60" y="50" width="30" height="5" fill="#ffffff"/>
+    <rect x="60" y="60" width="20" height="5" fill="#ffffff"/>
+    
+    <!-- Project 2 Icon -->
+    <rect x="150" y="10" width="60" height="60" fill="#FF2D20" stroke="#c92a2a" stroke-width="2"/>
+    <rect x="160" y="20" width="40" height="10" fill="#ffffff"/>
+    <rect x="160" y="35" width="30" height="5" fill="#ffffff"/>
+    <rect x="160" y="45" width="40" height="5" fill="#ffffff"/>
+    <rect x="160" y="55" width="25" height="5" fill="#ffffff"/>
+    <rect x="190" y="55" width="10" height="5" fill="#ffffff"/>
+    
+    <!-- Project 3 Icon -->
+    <rect x="250" y="10" width="60" height="60" fill="#61DAFB" stroke="#2d9cdb" stroke-width="2"/>
+    <rect x="260" y="20" width="20" height="20" fill="#ffffff"/>
+    <rect x="285" y="20" width="20" height="20" fill="#ffffff"/>
+    <rect x="260" y="45" width="45" height="5" fill="#ffffff"/>
+    <rect x="260" y="55" width="35" height="5" fill="#ffffff"/>
+    <rect x="260" y="65" width="25" height="5" fill="#ffffff"/>
+    
+    <!-- Project 4 Icon -->
+    <rect x="350" y="10" width="60" height="60" fill="#FFD93D" stroke="#f59f00" stroke-width="2"/>
+    <rect x="360" y="20" width="15" height="15" fill="#ffffff"/>
+    <rect x="380" y="20" width="15" height="15" fill="#ffffff"/>
+    <rect x="395" y="20" width="10" height="15" fill="#ffffff"/>
+    <rect x="360" y="40" width="40" height="10" fill="#ffffff"/>
+    <rect x="360" y="55" width="30" height="5" fill="#ffffff"/>
+    <rect x="360" y="65" width="20" height="5" fill="#ffffff"/>
+  </svg>
+  
+  <br/><br/>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏆 Project 1</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Tech-React-blue?style=flat-square&labelColor=0d1117" />
+        </div>
+        <p align="center">Description of your amazing project...</p>
+        <p align="center">
+          <a href="https://github.com/edrianemanicdog/project1">
+            <img src="https://img.shields.io/badge/View-Project-9d4edd?style=flat-square&logo=github&labelColor=0d1117" />
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🏆 Project 2</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Tech-Laravel-red?style=flat-square&labelColor=0d1117" />
+        </div>
+        <p align="center">Description of another cool project...</p>
+        <p align="center">
+          <a href="https://github.com/edrianemanicdog/project2">
+            <img src="https://img.shields.io/badge/View-Project-9d4edd?style=flat-square&logo=github&labelColor=0d1117" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+## 🎨 Pixel Art & Design
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Pixel%20Art-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Design-4ECDC4?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Creative-FFD93D?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0d1117" />
+  
+  <br/><br/>
+  
+  <!-- Pixel Art Character -->
+  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Pixel Art Character - Simple 8-bit style -->
+    <rect x="60" y="40" width="80" height="100" fill="#9d4edd" stroke="#6a1b9a" stroke-width="2"/>
+    <rect x="70" y="50" width="20" height="20" fill="#ffffff"/>
+    <rect x="110" y="50" width="20" height="20" fill="#ffffff"/>
+    <rect x="80" y="80" width="40" height="10" fill="#6a1b9a"/>
+    <rect x="70" y="150" width="15" height="30" fill="#6a1b9a"/>
+    <rect x="115" y="150" width="15" height="30" fill="#6a1b9a"/>
+    <rect x="85" y="180" width="15" height="20" fill="#6a1b9a"/>
+    <rect x="100" y="180" width="15" height="20" fill="#6a1b9a"/>
+  </svg>
+  
+  <br/>
+  
+  <!-- Pixel Art Icons -->
+  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Code Icon -->
+    <rect x="20" y="20" width="60" height="60" fill="#9d4edd" stroke="#6a1b9a" stroke-width="2"/>
+    <rect x="30" y="30" width="10" height="10" fill="#ffffff"/>
+    <rect x="50" y="30" width="10" height="10" fill="#ffffff"/>
+    <rect x="70" y="30" width="10" height="10" fill="#ffffff"/>
+    <rect x="30" y="50" width="40" height="10" fill="#ffffff"/>
+    <rect x="30" y="70" width="20" height="10" fill="#ffffff"/>
+    <rect x="60" y="70" width="20" height="10" fill="#ffffff"/>
+    
+    <!-- Game Controller Icon -->
+    <rect x="120" y="20" width="60" height="60" fill="#FF6B6B" stroke="#c92a2a" stroke-width="2"/>
+    <rect x="130" y="30" width="15" height="15" fill="#ffffff"/>
+    <rect x="155" y="30" width="15" height="15" fill="#ffffff"/>
+    <rect x="140" y="50" width="20" height="10" fill="#ffffff"/>
+    <rect x="125" y="70" width="10" height="10" fill="#ffffff"/>
+    <rect x="165" y="70" width="10" height="10" fill="#ffffff"/>
+    
+    <!-- Design Icon -->
+    <rect x="220" y="20" width="60" height="60" fill="#4ECDC4" stroke="#2d9cdb" stroke-width="2"/>
+    <rect x="230" y="30" width="40" height="20" fill="#ffffff"/>
+    <rect x="230" y="55" width="25" height="15" fill="#ffffff"/>
+    <rect x="260" y="55" width="10" height="15" fill="#ffffff"/>
+    <rect x="230" y="75" width="40" height="5" fill="#ffffff"/>
+    
+    <!-- Rocket Icon -->
+    <rect x="320" y="20" width="60" height="60" fill="#FFD93D" stroke="#f59f00" stroke-width="2"/>
+    <rect x="340" y="30" width="20" height="30" fill="#ffffff"/>
+    <rect x="335" y="40" width="30" height="10" fill="#ffffff"/>
+    <rect x="345" y="65" width="10" height="15" fill="#ffffff"/>
+    <rect x="330" y="70" width="10" height="5" fill="#ffffff"/>
+    <rect x="360" y="70" width="10" height="5" fill="#ffffff"/>
+  </svg>
+  
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+  <!-- Pixel Art Social Icons -->
+  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <!-- GitHub Icon -->
+    <rect x="50" y="20" width="60" height="60" fill="#181717" stroke="#000000" stroke-width="2"/>
+    <rect x="65" y="35" width="10" height="10" fill="#ffffff"/>
+    <rect x="80" y="35" width="10" height="10" fill="#ffffff"/>
+    <rect x="95" y="35" width="10" height="10" fill="#ffffff"/>
+    <rect x="65" y="50" width="40" height="5" fill="#ffffff"/>
+    <rect x="65" y="60" width="30" height="5" fill="#ffffff"/>
+    <rect x="65" y="70" width="20" height="5" fill="#ffffff"/>
+    
+    <!-- LinkedIn Icon -->
+    <rect x="150" y="20" width="60" height="60" fill="#0077B5" stroke="#005885" stroke-width="2"/>
+    <rect x="165" y="30" width="30" height="30" fill="#ffffff"/>
+    <rect x="170" y="35" width="5" height="5" fill="#0077B5"/>
+    <rect x="180" y="35" width="5" height="5" fill="#0077B5"/>
+    <rect x="190" y="35" width="5" height="5" fill="#0077B5"/>
+    <rect x="165" y="45" width="20" height="5" fill="#0077B5"/>
+    <rect x="165" y="55" width="15" height="5" fill="#0077B5"/>
+    
+    <!-- Email Icon -->
+    <rect x="250" y="20" width="60" height="60" fill="#D14836" stroke="#a93226" stroke-width="2"/>
+    <rect x="260" y="30" width="40" height="30" fill="#ffffff"/>
+    <rect x="265" y="35" width="30" height="5" fill="#D14836"/>
+    <rect x="265" y="45" width="25" height="5" fill="#D14836"/>
+    <rect x="265" y="55" width="20" height="5" fill="#D14836"/>
+  </svg>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/edrianemanicdog">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://linkedin.com/in/edrianemanicdog">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="mailto:edrianemanicdog@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+  
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer" alt="Footer" />
+  
+  <img src="https://profile-counter.glitch.me/edrianemanicdog/count.svg" alt="Visitor Count" />
+  
+  **⭐ Star this repo if you like it!**
+  
+  Made with ❤️ and pixel art vibes
+  
+</div>
