@@ -120,38 +120,48 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
     <rect x="360" y="65" width="20" height="5" fill="#ffffff"/>
   </svg>
   
-  <br/><br/>
+</div>
+
+### 🏆 Project 1
+
+<div align="center">
   
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏆 Project 1</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&labelColor=0d1117" />
-          <img src="https://img.shields.io/badge/Tech-React-blue?style=flat-square&labelColor=0d1117" />
-        </div>
-        <p align="center">Description of your amazing project...</p>
-        <p align="center">
-          <a href="https://github.com/edrianemanicdog/project1">
-            <img src="https://img.shields.io/badge/View-Project-9d4edd?style=flat-square&logo=github&labelColor=0d1117" />
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏆 Project 2</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&labelColor=0d1117" />
-          <img src="https://img.shields.io/badge/Tech-Laravel-red?style=flat-square&labelColor=0d1117" />
-        </div>
-        <p align="center">Description of another cool project...</p>
-        <p align="center">
-          <a href="https://github.com/edrianemanicdog/project2">
-            <img src="https://img.shields.io/badge/View-Project-9d4edd?style=flat-square&logo=github&labelColor=0d1117" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square&labelColor=0d1117)
+  ![Tech](https://img.shields.io/badge/Tech-React-blue?style=flat-square&labelColor=0d1117)
+  
+  **Description of your amazing project...**
+  
+  [![View Project](https://img.shields.io/badge/View-Project-9d4edd?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/edrianemanicdog/project1)
+  
+</div>
+
+---
+
+### 🏆 Project 2
+
+<div align="center">
+  
+  ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square&labelColor=0d1117)
+  ![Tech](https://img.shields.io/badge/Tech-Laravel-red?style=flat-square&labelColor=0d1117)
+  
+  **Description of another cool project...**
+  
+  [![View Project](https://img.shields.io/badge/View-Project-9d4edd?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/edrianemanicdog/project2)
+  
+</div>
+
+---
+
+### 🏆 Project 3
+
+<div align="center">
+  
+  ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square&labelColor=0d1117)
+  ![Tech](https://img.shields.io/badge/Tech-Node.js-green?style=flat-square&labelColor=0d1117)
+  
+  **Description of your third project...**
+  
+  [![View Project](https://img.shields.io/badge/View-Project-9d4edd?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/edrianemanicdog/project3)
   
 </div>
 
