@@ -84,41 +84,7 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
 <div align="center">
   
   <!-- Pixel Art Project Icons -->
-  <svg width="500" height="80" xmlns="http://www.w3.org/2000/svg">
-    <!-- Project 1 Icon -->
-    <rect x="50" y="10" width="60" height="60" fill="#9d4edd" stroke="#6a1b9a" stroke-width="2"/>
-    <rect x="60" y="20" width="15" height="15" fill="#ffffff"/>
-    <rect x="80" y="20" width="15" height="15" fill="#ffffff"/>
-    <rect x="100" y="20" width="10" height="15" fill="#ffffff"/>
-    <rect x="60" y="40" width="40" height="5" fill="#ffffff"/>
-    <rect x="60" y="50" width="30" height="5" fill="#ffffff"/>
-    <rect x="60" y="60" width="20" height="5" fill="#ffffff"/>
-    
-    <!-- Project 2 Icon -->
-    <rect x="150" y="10" width="60" height="60" fill="#FF2D20" stroke="#c92a2a" stroke-width="2"/>
-    <rect x="160" y="20" width="40" height="10" fill="#ffffff"/>
-    <rect x="160" y="35" width="30" height="5" fill="#ffffff"/>
-    <rect x="160" y="45" width="40" height="5" fill="#ffffff"/>
-    <rect x="160" y="55" width="25" height="5" fill="#ffffff"/>
-    <rect x="190" y="55" width="10" height="5" fill="#ffffff"/>
-    
-    <!-- Project 3 Icon -->
-    <rect x="250" y="10" width="60" height="60" fill="#61DAFB" stroke="#2d9cdb" stroke-width="2"/>
-    <rect x="260" y="20" width="20" height="20" fill="#ffffff"/>
-    <rect x="285" y="20" width="20" height="20" fill="#ffffff"/>
-    <rect x="260" y="45" width="45" height="5" fill="#ffffff"/>
-    <rect x="260" y="55" width="35" height="5" fill="#ffffff"/>
-    <rect x="260" y="65" width="25" height="5" fill="#ffffff"/>
-    
-    <!-- Project 4 Icon -->
-    <rect x="350" y="10" width="60" height="60" fill="#FFD93D" stroke="#f59f00" stroke-width="2"/>
-    <rect x="360" y="20" width="15" height="15" fill="#ffffff"/>
-    <rect x="380" y="20" width="15" height="15" fill="#ffffff"/>
-    <rect x="395" y="20" width="10" height="15" fill="#ffffff"/>
-    <rect x="360" y="40" width="40" height="10" fill="#ffffff"/>
-    <rect x="360" y="55" width="30" height="5" fill="#ffffff"/>
-    <rect x="360" y="65" width="20" height="5" fill="#ffffff"/>
-  </svg>
+  <img src="data:image/svg+xml,%3Csvg width='500' height='80' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='50' y='10' width='60' height='60' fill='%239d4edd' stroke='%236a1b9a' stroke-width='2'/%3E%3Crect x='60' y='20' width='15' height='15' fill='%23ffffff'/%3E%3Crect x='80' y='20' width='15' height='15' fill='%23ffffff'/%3E%3Crect x='100' y='20' width='10' height='15' fill='%23ffffff'/%3E%3Crect x='60' y='40' width='40' height='5' fill='%23ffffff'/%3E%3Crect x='60' y='50' width='30' height='5' fill='%23ffffff'/%3E%3Crect x='60' y='60' width='20' height='5' fill='%23ffffff'/%3E%3Crect x='150' y='10' width='60' height='60' fill='%23FF2D20' stroke='%23c92a2a' stroke-width='2'/%3E%3Crect x='160' y='20' width='40' height='10' fill='%23ffffff'/%3E%3Crect x='160' y='35' width='30' height='5' fill='%23ffffff'/%3E%3Crect x='160' y='45' width='40' height='5' fill='%23ffffff'/%3E%3Crect x='160' y='55' width='25' height='5' fill='%23ffffff'/%3E%3Crect x='190' y='55' width='10' height='5' fill='%23ffffff'/%3E%3Crect x='250' y='10' width='60' height='60' fill='%2361DAFB' stroke='%232d9cdb' stroke-width='2'/%3E%3Crect x='260' y='20' width='20' height='20' fill='%23ffffff'/%3E%3Crect x='285' y='20' width='20' height='20' fill='%23ffffff'/%3E%3Crect x='260' y='45' width='45' height='5' fill='%23ffffff'/%3E%3Crect x='260' y='55' width='35' height='5' fill='%23ffffff'/%3E%3Crect x='260' y='65' width='25' height='5' fill='%23ffffff'/%3E%3Crect x='350' y='10' width='60' height='60' fill='%23FFD93D' stroke='%23f59f00' stroke-width='2'/%3E%3Crect x='360' y='20' width='15' height='15' fill='%23ffffff'/%3E%3Crect x='380' y='20' width='15' height='15' fill='%23ffffff'/%3E%3Crect x='395' y='20' width='10' height='15' fill='%23ffffff'/%3E%3Crect x='360' y='40' width='40' height='10' fill='%23ffffff'/%3E%3Crect x='360' y='55' width='30' height='5' fill='%23ffffff'/%3E%3Crect x='360' y='65' width='20' height='5' fill='%23ffffff'/%3E%3C/svg%3E" alt="Pixel Art Project Icons" width="500" height="80" />
   
 </div>
 
@@ -178,54 +144,12 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
   <br/><br/>
   
   <!-- Pixel Art Character -->
-  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-    <!-- Pixel Art Character - Simple 8-bit style -->
-    <rect x="60" y="40" width="80" height="100" fill="#9d4edd" stroke="#6a1b9a" stroke-width="2"/>
-    <rect x="70" y="50" width="20" height="20" fill="#ffffff"/>
-    <rect x="110" y="50" width="20" height="20" fill="#ffffff"/>
-    <rect x="80" y="80" width="40" height="10" fill="#6a1b9a"/>
-    <rect x="70" y="150" width="15" height="30" fill="#6a1b9a"/>
-    <rect x="115" y="150" width="15" height="30" fill="#6a1b9a"/>
-    <rect x="85" y="180" width="15" height="20" fill="#6a1b9a"/>
-    <rect x="100" y="180" width="15" height="20" fill="#6a1b9a"/>
-  </svg>
+  <img src="data:image/svg+xml,%3Csvg width='200' height='200' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='60' y='40' width='80' height='100' fill='%239d4edd' stroke='%236a1b9a' stroke-width='2'/%3E%3Crect x='70' y='50' width='20' height='20' fill='%23ffffff'/%3E%3Crect x='110' y='50' width='20' height='20' fill='%23ffffff'/%3E%3Crect x='80' y='80' width='40' height='10' fill='%236a1b9a'/%3E%3Crect x='70' y='150' width='15' height='30' fill='%236a1b9a'/%3E%3Crect x='115' y='150' width='15' height='30' fill='%236a1b9a'/%3E%3Crect x='85' y='180' width='15' height='20' fill='%236a1b9a'/%3E%3Crect x='100' y='180' width='15' height='20' fill='%236a1b9a'/%3E%3C/svg%3E" alt="Pixel Art Character" width="200" height="200" />
   
   <br/>
   
   <!-- Pixel Art Icons -->
-  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-    <!-- Code Icon -->
-    <rect x="20" y="20" width="60" height="60" fill="#9d4edd" stroke="#6a1b9a" stroke-width="2"/>
-    <rect x="30" y="30" width="10" height="10" fill="#ffffff"/>
-    <rect x="50" y="30" width="10" height="10" fill="#ffffff"/>
-    <rect x="70" y="30" width="10" height="10" fill="#ffffff"/>
-    <rect x="30" y="50" width="40" height="10" fill="#ffffff"/>
-    <rect x="30" y="70" width="20" height="10" fill="#ffffff"/>
-    <rect x="60" y="70" width="20" height="10" fill="#ffffff"/>
-    
-    <!-- Game Controller Icon -->
-    <rect x="120" y="20" width="60" height="60" fill="#FF6B6B" stroke="#c92a2a" stroke-width="2"/>
-    <rect x="130" y="30" width="15" height="15" fill="#ffffff"/>
-    <rect x="155" y="30" width="15" height="15" fill="#ffffff"/>
-    <rect x="140" y="50" width="20" height="10" fill="#ffffff"/>
-    <rect x="125" y="70" width="10" height="10" fill="#ffffff"/>
-    <rect x="165" y="70" width="10" height="10" fill="#ffffff"/>
-    
-    <!-- Design Icon -->
-    <rect x="220" y="20" width="60" height="60" fill="#4ECDC4" stroke="#2d9cdb" stroke-width="2"/>
-    <rect x="230" y="30" width="40" height="20" fill="#ffffff"/>
-    <rect x="230" y="55" width="25" height="15" fill="#ffffff"/>
-    <rect x="260" y="55" width="10" height="15" fill="#ffffff"/>
-    <rect x="230" y="75" width="40" height="5" fill="#ffffff"/>
-    
-    <!-- Rocket Icon -->
-    <rect x="320" y="20" width="60" height="60" fill="#FFD93D" stroke="#f59f00" stroke-width="2"/>
-    <rect x="340" y="30" width="20" height="30" fill="#ffffff"/>
-    <rect x="335" y="40" width="30" height="10" fill="#ffffff"/>
-    <rect x="345" y="65" width="10" height="15" fill="#ffffff"/>
-    <rect x="330" y="70" width="10" height="5" fill="#ffffff"/>
-    <rect x="360" y="70" width="10" height="5" fill="#ffffff"/>
-  </svg>
+  <img src="data:image/svg+xml,%3Csvg width='400' height='100' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='20' y='20' width='60' height='60' fill='%239d4edd' stroke='%236a1b9a' stroke-width='2'/%3E%3Crect x='30' y='30' width='10' height='10' fill='%23ffffff'/%3E%3Crect x='50' y='30' width='10' height='10' fill='%23ffffff'/%3E%3Crect x='70' y='30' width='10' height='10' fill='%23ffffff'/%3E%3Crect x='30' y='50' width='40' height='10' fill='%23ffffff'/%3E%3Crect x='30' y='70' width='20' height='10' fill='%23ffffff'/%3E%3Crect x='60' y='70' width='20' height='10' fill='%23ffffff'/%3E%3Crect x='120' y='20' width='60' height='60' fill='%23FF6B6B' stroke='%23c92a2a' stroke-width='2'/%3E%3Crect x='130' y='30' width='15' height='15' fill='%23ffffff'/%3E%3Crect x='155' y='30' width='15' height='15' fill='%23ffffff'/%3E%3Crect x='140' y='50' width='20' height='10' fill='%23ffffff'/%3E%3Crect x='125' y='70' width='10' height='10' fill='%23ffffff'/%3E%3Crect x='165' y='70' width='10' height='10' fill='%23ffffff'/%3E%3Crect x='220' y='20' width='60' height='60' fill='%234ECDC4' stroke='%232d9cdb' stroke-width='2'/%3E%3Crect x='230' y='30' width='40' height='20' fill='%23ffffff'/%3E%3Crect x='230' y='55' width='25' height='15' fill='%23ffffff'/%3E%3Crect x='260' y='55' width='10' height='15' fill='%23ffffff'/%3E%3Crect x='230' y='75' width='40' height='5' fill='%23ffffff'/%3E%3Crect x='320' y='20' width='60' height='60' fill='%23FFD93D' stroke='%23f59f00' stroke-width='2'/%3E%3Crect x='340' y='30' width='20' height='30' fill='%23ffffff'/%3E%3Crect x='335' y='40' width='30' height='10' fill='%23ffffff'/%3E%3Crect x='345' y='65' width='10' height='15' fill='%23ffffff'/%3E%3Crect x='330' y='70' width='10' height='5' fill='%23ffffff'/%3E%3Crect x='360' y='70' width='10' height='5' fill='%23ffffff'/%3E%3C/svg%3E" alt="Pixel Art Icons" width="400" height="100" />
   
 </div>
 
@@ -236,32 +160,7 @@ I'm a dedicated developer with a passion for creating beautiful, functional appl
 <div align="center">
   
   <!-- Pixel Art Social Icons -->
-  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-    <!-- GitHub Icon -->
-    <rect x="50" y="20" width="60" height="60" fill="#181717" stroke="#000000" stroke-width="2"/>
-    <rect x="65" y="35" width="10" height="10" fill="#ffffff"/>
-    <rect x="80" y="35" width="10" height="10" fill="#ffffff"/>
-    <rect x="95" y="35" width="10" height="10" fill="#ffffff"/>
-    <rect x="65" y="50" width="40" height="5" fill="#ffffff"/>
-    <rect x="65" y="60" width="30" height="5" fill="#ffffff"/>
-    <rect x="65" y="70" width="20" height="5" fill="#ffffff"/>
-    
-    <!-- LinkedIn Icon -->
-    <rect x="150" y="20" width="60" height="60" fill="#0077B5" stroke="#005885" stroke-width="2"/>
-    <rect x="165" y="30" width="30" height="30" fill="#ffffff"/>
-    <rect x="170" y="35" width="5" height="5" fill="#0077B5"/>
-    <rect x="180" y="35" width="5" height="5" fill="#0077B5"/>
-    <rect x="190" y="35" width="5" height="5" fill="#0077B5"/>
-    <rect x="165" y="45" width="20" height="5" fill="#0077B5"/>
-    <rect x="165" y="55" width="15" height="5" fill="#0077B5"/>
-    
-    <!-- Email Icon -->
-    <rect x="250" y="20" width="60" height="60" fill="#D14836" stroke="#a93226" stroke-width="2"/>
-    <rect x="260" y="30" width="40" height="30" fill="#ffffff"/>
-    <rect x="265" y="35" width="30" height="5" fill="#D14836"/>
-    <rect x="265" y="45" width="25" height="5" fill="#D14836"/>
-    <rect x="265" y="55" width="20" height="5" fill="#D14836"/>
-  </svg>
+  <img src="data:image/svg+xml,%3Csvg width='400' height='100' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='50' y='20' width='60' height='60' fill='%23181717' stroke='%23000000' stroke-width='2'/%3E%3Crect x='65' y='35' width='10' height='10' fill='%23ffffff'/%3E%3Crect x='80' y='35' width='10' height='10' fill='%23ffffff'/%3E%3Crect x='95' y='35' width='10' height='10' fill='%23ffffff'/%3E%3Crect x='65' y='50' width='40' height='5' fill='%23ffffff'/%3E%3Crect x='65' y='60' width='30' height='5' fill='%23ffffff'/%3E%3Crect x='65' y='70' width='20' height='5' fill='%23ffffff'/%3E%3Crect x='150' y='20' width='60' height='60' fill='%230077B5' stroke='%23005885' stroke-width='2'/%3E%3Crect x='165' y='30' width='30' height='30' fill='%23ffffff'/%3E%3Crect x='170' y='35' width='5' height='5' fill='%230077B5'/%3E%3Crect x='180' y='35' width='5' height='5' fill='%230077B5'/%3E%3Crect x='190' y='35' width='5' height='5' fill='%230077B5'/%3E%3Crect x='165' y='45' width='20' height='5' fill='%230077B5'/%3E%3Crect x='165' y='55' width='15' height='5' fill='%230077B5'/%3E%3Crect x='250' y='20' width='60' height='60' fill='%23D14836' stroke='%23a93226' stroke-width='2'/%3E%3Crect x='260' y='30' width='40' height='30' fill='%23ffffff'/%3E%3Crect x='265' y='35' width='30' height='5' fill='%23D14836'/%3E%3Crect x='265' y='45' width='25' height='5' fill='%23D14836'/%3E%3Crect x='265' y='55' width='20' height='5' fill='%23D14836'/%3E%3C/svg%3E" alt="Pixel Art Social Icons" width="400" height="100" />
   
   <br/><br/>
   
