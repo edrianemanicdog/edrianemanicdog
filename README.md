@@ -1,117 +1,99 @@
+<!-- header -->
 <div align="center">
 
 ```
-╔══════════════════════════════════════╗
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║  ░                                ░  ║
-║  ░   ┌─────────────────────────┐  ░  ║
-║  ░   │  EDRIANE  v1.0  ▶ ▶ ▶  │  ░  ║
-║  ░   │  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  │  ░  ║
-║  ░   │  █ hello, world! 👋   █  │  ░  ║
-║  ░   │  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  │  ░  ║
-║  ░   └─────────────────────────┘  ░  ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════╗
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░  ┌────────────────────────────────┐  ║
+║  ░  │  EDRIANE  v1.0  ▶ ▶ ▶         │  ║
+║  ░  │  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  │  ║
+║  ░  │  █  hello, world! 👾          █  │  ║
+║  ░  │  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  │  ║
+║  ░  └────────────────────────────────┘  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+╚══════════════════════════════════════════╝
 ```
+
+![status](https://img.shields.io/badge/status-always_building_⚙️-9FE1CB?style=flat-square)
+![mood](https://img.shields.io/badge/mood-caffeinated_☕-AFA9EC?style=flat-square)
+![based](https://img.shields.io/badge/based_in-🌏_Philippines-7F77DD?style=flat-square)
 
 </div>
 
 ---
 
-<div align="center">
+## `📼 ABOUT.txt`
 
-### 🎮 INSERT COIN TO CONTINUE 🎮
-
-</div>
+```
+hi! i'm edriane 👾
+i turn ideas into things that actually work.
+when i'm not coding, i'm probably overanalyzing
+a playlist or eating something good 🍜
+```
 
 ---
 
-## `> PLAYER_PROFILE.exe`
+## `🎮 PROFILE.yaml`
 
 ```yaml
 name      : edriane
 status    : always building something ⚙️
 based_in  : 🌏 Philippines
 mood      : [ ██████████ ] caffeinated
+looking   : cool collabs ✨
 ```
 
 ---
 
-## `> NOW_PLAYING 🎵`
+## `🎵 NOW_PLAYING`
 
 ```
-┌──────────────────────────────────────┐
-│  ◀◀  ▶▶  ■   ◉ REC                  │
-│                                      │
-│  Side A  ──────────────────────────  │
-│  Track 1 : writing code              │
-│  Track 2 : breaking things           │
-│  Track 3 : fixing what I broke       │
-│  Track 4 : coffee. repeat.           │
-│                                      │
-│  ▶▶▶ currently on: Track 2           │
-└──────────────────────────────────────┘
-```
-
----
-
-## `> ABOUT_ME.txt`
-
-```
-╔═══════════════════════════════════╗
-║  Hi! I'm edriane.                 ║
-║                                   ║
-║  I like turning ideas into        ║
-║  things that actually work.       ║
-║                                   ║
-║  When I'm not coding, I'm         ║
-║  probably overanalyzing a         ║
-║  playlist or eating something     ║
-║  good. 🍜                         ║
-╚═══════════════════════════════════╝
+┌──────────────────────────────────────────┐
+│  ◀◀  ▶▶  ■          ◉ REC               │
+│  ○────────────────────────────────────○  │
+│                                          │
+│  01  writing code                        │
+│  ▶ 02  breaking things (feat. bugs)      │
+│  03  fixing what i broke                 │
+│  04  coffee. repeat.                     │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
 ---
 
-## `> SKILLS.dat`
+## `⚙️ SKILLS.dat`
 
 ```
 LOADING CARTRIDGE...
 
-[LANGUAGES]   ▓▓▓▓▓▓▓▓░░  ← add yours!
+[LANGUAGES]   ▓▓▓▓▓▓▓░░░   ← swap in yours!
 [FRONTEND]    ▓▓▓▓▓▓░░░░
 [BACKEND]     ▓▓▓▓░░░░░░
-[VIBES]       ▓▓▓▓▓▓▓▓▓▓  ✓ maxed out
+[VIBES]       ▓▓▓▓▓▓▓▓▓▓   ✓ maxed out
 ```
-
-> 💾 *Feel free to swap in your actual skills above!*
 
 ---
 
-## `> CONNECT.link`
+## `🕹️ CONNECT.link`
 
-```
-┌─────────────────────────────────┐
-│  📼  drop a message anytime     │
-│  🎮  let's collab on something  │
-│  🎵  or just vibe               │
-└─────────────────────────────────┘
-```
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-edriane-8B5CF6?style=flat-square&logo=github)](https://github.com/edriane)
+![GitHub](https://img.shields.io/badge/github-edriane-26215C?style=for-the-badge&logo=github)
+![open to collab](https://img.shields.io/badge/open_to-collabs-5DCAA5?style=for-the-badge)
+![drop a message](https://img.shields.io/badge/feel_free_to-say_hi_👋-7F77DD?style=for-the-badge)
+
+</div>
 
 ---
 
 <div align="center">
 
 ```
-▼ PRESS START ▼
-
-★ · · · · · · · · · · · · · · · · ★
-     thanks for visiting! 🕹️
-★ · · · · · · · · · · · · · · · · ★
+★ · · · · · · · · · · · · · · · · · · · · ★
+       thanks for visiting! press start ▶
+       made with ♥ and too much caffeine
+★ · · · · · · · · · · · · · · · · · · · · ★
 ```
-
-*made with ♥ and too much caffeine*
 
 </div>
