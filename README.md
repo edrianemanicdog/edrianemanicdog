@@ -1,132 +1,117 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixel&size=35&duration=4000&color=87CEEB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Edriane+Manicdog;Pixel+Art+Enthusiast+%26+Developer;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,87CEEB,1E90FF&height=180&section=header&text=Edriane%20Manicdog&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
-</div>
+```
+╔══════════════════════════════════════╗
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░                                ░  ║
+║  ░   ┌─────────────────────────┐  ░  ║
+║  ░   │  EDRIANE  v1.0  ▶ ▶ ▶  │  ░  ║
+║  ░   │  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  │  ░  ║
+║  ░   │  █ hello, world! 👋   █  │  ░  ║
+║  ░   │  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  │  ░  ║
+║  ░   └─────────────────────────┘  ░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+╚══════════════════════════════════════╝
+```
 
-<div align="center">
-  
-  ![GitHub followers](https://img.shields.io/github/followers/edrianemanicdog?style=flat-square&logo=github&color=87CEEB&labelColor=0d1117)
-  ![GitHub stars](https://img.shields.io/github/stars/edrianemanicdog?style=flat-square&logo=github&color=87CEEB&labelColor=0d1117)
-  
-</div>
-
----
-
-## 🎯 About Me
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-  
-</div>
-
-I'm a dedicated developer with a passion for creating beautiful, functional applications. I love the retro aesthetic of pixel art and strive to bring that charm into modern development while maintaining professional standards.
-
-- 🔭 Currently working on: **Building awesome projects**
-- 🌱 Currently learning: **New technologies and frameworks**
-- 👯 Looking to collaborate on: **Open source projects**
-- 💬 Ask me about: **Web development, pixel art, and coding**
-- 📫 How to reach me: **edrianemanicdog6@gmail.com**
-- ⚡ Fun fact: **I love combining retro aesthetics with modern tech!**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-  ### Languages & Frameworks
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=87CEEB)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=87CEEB)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=87CEEB)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=87CEEB)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=87CEEB)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=87CEEB)
-  
-  ### Tools & Technologies
-  
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=87CEEB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=87CEEB)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=87CEEB)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=87CEEB)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=87CEEB)
-  
-</div>
-
----
-
-## 🎨 Pixel Art & Design
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Pixel%20Art-87CEEB?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Design-00BFFF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Creative-1E90FF?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0d1117" />
-  
-  <br/><br/>
-  
-  <!-- Pixel Art Character -->
-  <div style="font-size: 48px; margin: 20px 0;">
-  👨‍💻
-  </div>
-  
-  <br/>
-  
-  <!-- Pixel Art Icons -->
-  <div style="font-size: 32px; margin: 20px 0;">
-  💻 🎮 🎨 ☁️
-  </div>
-  
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-  <!-- Pixel Art Social Icons -->
-  <div style="font-size: 28px; margin: 20px 0;">
-  🔵 💙 ☁️
-  </div>
-  
-  <br/>
-  
-  <a href="https://github.com/edrianemanicdog">
-    <img src="https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=181717&labelColor=0d1117" />
-  </a>
-  <a href="https://linkedin.com/in/edrianemanicdog">
-    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="mailto:edrianemanicdog@example.com">
-    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>
-  
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  
 </div>
 
 ---
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,87CEEB,1E90FF&height=65&section=footer" alt="Footer" />
-  
-  
-  **⭐ Star this repo if you like it!**
-  
-  Made with ❤️ and pixel art vibes
-  
+
+### 🎮 INSERT COIN TO CONTINUE 🎮
+
+</div>
+
+---
+
+## `> PLAYER_PROFILE.exe`
+
+```yaml
+name      : edriane
+status    : always building something ⚙️
+based_in  : 🌏 Philippines
+mood      : [ ██████████ ] caffeinated
+```
+
+---
+
+## `> NOW_PLAYING 🎵`
+
+```
+┌──────────────────────────────────────┐
+│  ◀◀  ▶▶  ■   ◉ REC                  │
+│                                      │
+│  Side A  ──────────────────────────  │
+│  Track 1 : writing code              │
+│  Track 2 : breaking things           │
+│  Track 3 : fixing what I broke       │
+│  Track 4 : coffee. repeat.           │
+│                                      │
+│  ▶▶▶ currently on: Track 2           │
+└──────────────────────────────────────┘
+```
+
+---
+
+## `> ABOUT_ME.txt`
+
+```
+╔═══════════════════════════════════╗
+║  Hi! I'm edriane.                 ║
+║                                   ║
+║  I like turning ideas into        ║
+║  things that actually work.       ║
+║                                   ║
+║  When I'm not coding, I'm         ║
+║  probably overanalyzing a         ║
+║  playlist or eating something     ║
+║  good. 🍜                         ║
+╚═══════════════════════════════════╝
+```
+
+---
+
+## `> SKILLS.dat`
+
+```
+LOADING CARTRIDGE...
+
+[LANGUAGES]   ▓▓▓▓▓▓▓▓░░  ← add yours!
+[FRONTEND]    ▓▓▓▓▓▓░░░░
+[BACKEND]     ▓▓▓▓░░░░░░
+[VIBES]       ▓▓▓▓▓▓▓▓▓▓  ✓ maxed out
+```
+
+> 💾 *Feel free to swap in your actual skills above!*
+
+---
+
+## `> CONNECT.link`
+
+```
+┌─────────────────────────────────┐
+│  📼  drop a message anytime     │
+│  🎮  let's collab on something  │
+│  🎵  or just vibe               │
+└─────────────────────────────────┘
+```
+
+[![GitHub](https://img.shields.io/badge/github-edriane-8B5CF6?style=flat-square&logo=github)](https://github.com/edriane)
+
+---
+
+<div align="center">
+
+```
+▼ PRESS START ▼
+
+★ · · · · · · · · · · · · · · · · ★
+     thanks for visiting! 🕹️
+★ · · · · · · · · · · · · · · · · ★
+```
+
+*made with ♥ and too much caffeine*
+
 </div>
